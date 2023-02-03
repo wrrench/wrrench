@@ -1,16 +1,30 @@
-### Hi there 👋
+``` java
+import galaxy.earth.shroud;
+public class Shroud{
 
-<!--
-**5HR0UD/5HR0UD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    static void languages(){
+        String languages = {"Java","TypeScript","C++","Python"};
+        for(byte control = 0; control <= languages.length; control++){
+            System.out.println("I code in :" + languages[control]);
+        }
+    }
+    static void frameworks(){
+        String frameworks = {"Next.JS","Spring Boot","Arduino","Express.JS","PyTorch","Keras","Log4J"};
+        for(byte control = 0; control <= frameworks.length; control++){
+            System.out.println("I write in " + frameworks[control] + " framework");
+        }
+    }
+    static void about(){
+        String goals = {"Open Source Community","Hound Wolf Squad, Inc."};
+        for(byte control = 0; control <= goals.length; control++){
+            System.out.println("Code to contribute to " + goals[control]);
+        }
+    }
+    static void main(String args[]){
+       Shroud cloak = new Shroud();
+       cloak.languages();
+       cloak.frameworks();
+       cloak.about();
+    }
+}
+```
