@@ -28,3 +28,6 @@ public class Shroud{
     }
 }
 ```
+<br><br><br>
+![SHROUD](https://statx.vercel.app/api?username=5HR0UD)
+[![Top Langs](https://statx.vercel.app/api/top-langs/?username=5HR0UD)](https://github.com/5HR0UD/5HR0UD)
