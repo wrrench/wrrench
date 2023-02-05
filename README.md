@@ -30,4 +30,4 @@ public class Shroud{
 ```
 <br><br><br>
 ![SHROUD](https://statx.vercel.app/api?username=5HR0UD)
-[![Top Langs](https://statx.vercel.app/api/top-langs/?username=5HR0UD&langs_count=8)]
+![Top Langs](https://statx.vercel.app/api/top-langs/?username=5HR0UD&langs_count=8)
