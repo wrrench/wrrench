@@ -29,5 +29,5 @@ public class Wrench{
 }
 ```
 <br><br><br>
-![WRENCH](https://statx.vercel.app/api?username=rrench)
-![Top Langs](https://statx.vercel.app/api/top-langs/?username=rrench&langs_count=8)
+![WRENCH](https://statx.vercel.app/api?username=wrrench)
+![Top Langs](https://statx.vercel.app/api/top-langs/?username=wrrench&langs_count=8)
